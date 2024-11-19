@@ -1,5 +1,10 @@
-<DOCTYPE html> 
+<DOCTYPE html>
 <html>
-  <h1> i miss you hannah uwi kana</h1>
-  <h4> my honeybunchsugarplumtitemongmalaki</h4>
+  <head> 
+    <h4> My Final HTML</h4>
+  </head>
+  <body>
+    <h1> Annyeong! </h1>
+    <p> Hello my dear chingus! My name is Pamela Vivienne N. Corral and I am here to tell you about the culture and tradition of the country of South Korea! </p>
+  </body>
 </html>
